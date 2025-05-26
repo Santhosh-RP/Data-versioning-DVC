@@ -1,0 +1,6 @@
+[core]
+    remote = myremotes
+['remote "myremote"']
+    url = ../s3
+['remote "myremotes"']
+    url = C:\MLOPS\DVC\Data-versioning-DVC\s3
